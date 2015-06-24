@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Enemies our player must avoid
 var Enemy = function() {
     // Variables applied to each of our instances go here,
@@ -135,8 +134,7 @@ Stars.prototype.render = function() {
 };
 
 var star = new Stars();
-||||||| merged common ancestors
-=======
+
 // Enemies our player must avoid
 var Enemy = function() {
     // Variables applied to each of our instances go here,
@@ -183,4 +181,3 @@ document.addEventListener('keyup', function(e) {
 
     player.handleInput(allowedKeys[e.keyCode]);
 });
->>>>>>> 3d1597d2fb23dd7b71b3fd61c91ac0ef5551e339
