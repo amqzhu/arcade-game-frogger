@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* Engine.js
  * This file provides the game loop functionality (update entities and render),
  * draws the initial game board on the screen, and then calls the update and
@@ -186,8 +185,7 @@ var Engine = (function(global) {
      */
     global.ctx = ctx;
 })(this);
-||||||| merged common ancestors
-=======
+
 /* Engine.js
  * This file provides the game loop functionality (update entities and render),
  * draws the initial game board on the screen, and then calls the update and
@@ -372,4 +370,3 @@ var Engine = (function(global) {
      */
     global.ctx = ctx;
 })(this);
->>>>>>> 3d1597d2fb23dd7b71b3fd61c91ac0ef5551e339
